@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LogoVerse</title>
+    <meta http-equiv="refresh" content="0; url=https://logoverse.great-site.net/">
+</head>
+<body>
+    <h1>LogoVerse</h1>
+    <p>Opening LogoVerse...</p>
+    <p><a href="https://logoverse.great-site.net/">Click here to open LogoVerse</a></p>
+</body>
+</html>
