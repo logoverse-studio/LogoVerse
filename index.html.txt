@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LogoVerse</title>
+
+    <script>
+        window.location.replace("https://logoverse.great-site.net/");
+    </script>
+
+    <meta http-equiv="refresh" content="0;url=https://logoverse.great-site.net/">
+</head>
+
+<body>
+    <p>Opening LogoVerse...</p>
+    <p>
+        <a href="https://logoverse.great-site.net/">
+            Click here if LogoVerse does not open automatically.
+        </a>
+    </p>
+</body>
+</html>
